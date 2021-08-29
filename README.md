@@ -40,7 +40,6 @@ detectFile  - as key to CSV detect file
 
 type - as key to type of the detector (currently support only "simple" or "hybrid"
 
-see video below for further more information.
 
 
 
